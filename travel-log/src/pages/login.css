@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
+h1{
+    font-weight: lighter;
+    text-align: center;
+    font-family: 'Inconsolata',cursive;
+}
+.fgpswd{
+    margin-bottom: 0%;
+    margin-left: 140px;
+    text-align: right;
+    font-family: 'Inconsolata',cursive;
+    font-weight: bold;
+}
+.user{
+display: block;
+font-family: 'Inconsolata',cursive;
+font-weight: bold;
+margin-left: -140px;
+margin-top: 10px;
+margin-bottom: 8px;
+}
+
+.sec{
+margin-top: 17px;
+margin-bottom: 8px;
+font-family: 'Inconsolata',cursive;
+font-weight: bold;
+}
